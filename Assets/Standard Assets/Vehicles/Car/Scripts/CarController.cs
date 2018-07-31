@@ -14,7 +14,9 @@ namespace UnityStandardAssets.Vehicles.Car
     {
         MPH,
         KPH,
-        Test
+        Test,
+        China,
+        Russia
     }
 
     public class CarController : MonoBehaviour
